@@ -1,0 +1,7 @@
++----------------+--------+--------------------------+------------------------+
+| full_name      | rating | comments                 | event_name             |
++----------------+--------+--------------------------+------------------------+
+| John Smith     | 2      | Poor organization        | Tech Innovators Meetup |
+| Emily Johnson  | 1      | Session started late     | AI Summit 2025         |
+| Michael Brown  | 2      | Audio quality was poor   | Startup Expo           |
++----------------+--------+--------------------------+------------------------+

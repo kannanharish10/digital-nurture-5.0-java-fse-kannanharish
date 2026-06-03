@@ -1,0 +1,9 @@
++----------------+----------------+
+| full_name      | feedback_count |
++----------------+----------------+
+| Michael Brown  | 8              |
+| John Smith     | 7              |
+| Emily Johnson  | 6              |
+| Sarah Davis    | 5              |
+| David Wilson   | 4              |
++----------------+----------------+

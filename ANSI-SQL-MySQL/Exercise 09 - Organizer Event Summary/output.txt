@@ -1,0 +1,9 @@
++----------------+-----------+-------------+
+| organizer_name | status    | event_count |
++----------------+-----------+-------------+
+| Alice Johnson  | upcoming  | 3           |
+| Alice Johnson  | completed | 2           |
+| Bob Smith      | upcoming  | 1           |
+| Bob Smith      | cancelled | 1           |
+| Charlie Davis  | completed | 4           |
++----------------+-----------+-------------+
